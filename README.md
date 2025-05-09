@@ -13,3 +13,6 @@ How to run this???
 
 - Here is the link to my replit in case you cant run it :
 - https://replit.com/@wadi3586/303-Project#Evaluator.cpp
+
+screenshot: 
+https://docs.google.com/document/d/1KPeUxfSKLc4pn7b8MaodzIxmzNdj_wS_TAgjcOre5oU/edit?usp=sharing
